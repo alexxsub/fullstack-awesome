@@ -1,8 +1,9 @@
 # Fullstack awesome
 Список инструментов для fullstack разработки для Developer,DevOps,SRE
+```bash
 SysAdmin->DevOps
 Coder->Programmer->Developer->DevOps->SRE
-
+```
 ## Инструменты разработки
 
 - [**Visual Studio Code**](https://code.visualstudio.com): Кроссплатформенная IDE для разработки приложений, написания и отладки кода
