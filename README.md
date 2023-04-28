@@ -3,7 +3,7 @@
 
 ## Инструменты разработки
 
-- [**Visual studio Code**](https://code.visualstudio.com): Кроссплатформенная IDE для разработки приложений, написания и отладки кода
+- [**Visual Studio Code**](https://code.visualstudio.com): Кроссплатформенная IDE для разработки приложений, написания и отладки кода
 - [**Atom**](https://github.com/atom/atom): Кроссплдатформенный текстовый редактор для написания кода 
 - [**Codepen**](https://codepen.io): Онлайн редактор кода
 - [**Codesandbox**](https://codesandbox.io): онлайн IDE для разработки приложений
