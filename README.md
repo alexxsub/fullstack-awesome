@@ -1,5 +1,5 @@
 # Fullstack awesome
-Список инструментов для fullstack разработки
+Список инструментов для fullstack разработки для Developer,DevOps,SRE
 
 ## Инструменты разработки
 
@@ -66,5 +66,5 @@
 ## Контеqнеризация и виртуализация на рабочем ПК
 - [**Docker**](https://www.docker.com) Распределение ресурсов системы через контенеризацию. Создание контенеризированных приложений.
 - [**WSL**](https://learn.microsoft.com/ru-ru/windows/wsl/install) Запуск Linux и приложений на WIndows  10/11
-- [**k8s**](https://kubernetes.io) Инфраструктура для масштабирования, публикаций, управления контейнеризированных приложений
+- [**k8s**](https://kubernetes.io) Инфраструктура для масштабирования, публикаций, управления контейнеризированных приложений [minikube](https://kubernetes.io/ru/docs/setup/learning-environment/minikube)
 - [**VirtualBox**](https://www.virtualbox.org) Организация виртуализации на платформе x86. Не рассматриваем профессионалиные ситемы Hyper-V,RHV,VMware и т.п.
