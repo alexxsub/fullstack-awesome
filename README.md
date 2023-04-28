@@ -8,6 +8,7 @@
 - [**Codepen**](https://codepen.io): Онлайн редактор кода
 - [**Codesandbox**](https://codesandbox.io): онлайн IDE для разработки приложений
 - [**Git**](https://git-scm.com/) Система контроля версий и распределенной разработки
+- [**JetBarains**](https://www.jetbrains.com)Платные инструменты разработки
 
 ## Язык
 - [**JavaScript**](https://developer.mozilla.org/ru/docs/Web/JavaScript): Универсальный язык Java Script
