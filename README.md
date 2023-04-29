@@ -32,7 +32,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Vuetify**](https://vuetifyjs.com): Компеонентный фреймворк Vue для создания WEB интерфейсов material-design
 
 ### Альтернативы
-- [**ReactJS**](https://react.dev): Прогрессивный JS фреймворк от команды facebbok
+- [**ReactJS**](https://react.dev): Прогрессивный JS фреймворк от команды facebook
 - [**Bootstrap**](https://getbootstrap.com): Компеонентный фреймворк JS для создания WEB интерфейсов в стиле Twitter
 - [**Bootstrap**](https://getbootstrap.com): Компеонентный фреймворк JS для создания WEB интерфейсов в стиле Twitter
 - [**Angular**](https://angular.io): WEB фреймворк для SPA приложений от команды Google
