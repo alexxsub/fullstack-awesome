@@ -59,7 +59,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Redis**](https://redis.io) im-memory база данных
 
 ## Инструменты СУБД
-- [**DBear**](https://dbeaver.io): Универсальный GUI для СУБД
+- [**DBeaver**](https://dbeaver.io): Универсальный GUI для СУБД
 - [**MongoDB Compass**](https://www.mongodb.com/products/compass): GUI MongoDB
 - [**Prisma Studio**](https://www.prisma.io/studio): GUI клиент СУБД для ORM Prisma
 
