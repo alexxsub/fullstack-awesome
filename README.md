@@ -27,10 +27,17 @@ Coder->Programmer->Developer->DevOps->SRE
  - [**Материал иконки**](https://pictogrammers.com/library/mdi): Библиотека иконок material design
   
 ## Фронтенд
-- [**Vue**](https://vuejs.org): Прогрессивный JavaScript фреймворк , альтернатива [ReactJS](https://react.dev/)
+- [**Vue**](https://vuejs.org): Прогрессивный JavaScript фреймворк для создания динамических интерфейсов
 - [**Quasar**](https://quasar.dev): Кросплатформенный фреймворк Vue для создания приложений в дизайне material-design 
 - [**Vuetify**](https://vuetifyjs.com): Компеонентный фреймворк Vue для создания WEB интерфейсов material-design
-- 
+
+### Альтернативы
+- [**ReactJS**](https://react.dev): Прогрессивный JS фреймворк от команды facebbok
+- [**Bootstrap**](https://getbootstrap.com): Компеонентный фреймворк JS для создания WEB интерфейсов в стиле Twitter
+- [**Bootstrap**](https://getbootstrap.com): Компеонентный фреймворк JS для создания WEB интерфейсов в стиле Twitter
+- [**Angular**](https://angular.io): WEB фреймворк для SPA приложений от команды Google
+- [**Material Angular**](https://material.angularjs.org): Material UI для Angular
+
 ## Бэкенд
 - [**Express**](https://expressjs.com): Фреймворк на платформе NodeJS для реализации backend
 - [**GraphQL**](https://graphql.org): Язык для реализации API
