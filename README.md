@@ -34,7 +34,6 @@ Coder->Programmer->Developer->DevOps->SRE
 ### Альтернативы
 - [**ReactJS**](https://react.dev): Прогрессивный JS фреймворк от команды facebook
 - [**Bootstrap**](https://getbootstrap.com): Компеонентный фреймворк JS для создания WEB интерфейсов в стиле Twitter
-- [**Bootstrap**](https://getbootstrap.com): Компеонентный фреймворк JS для создания WEB интерфейсов в стиле Twitter
 - [**Angular**](https://angular.io): WEB фреймворк для SPA приложений от команды Google
 - [**Material Angular**](https://material.angularjs.org): Material UI для Angular
 
