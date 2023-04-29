@@ -48,6 +48,10 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Nest**](https://nestjs.com/): TypeScript nodejs фреймворк для server-side масштабируемых приложений
 - [**Django**](https://www.djangoproject.com/) фреймворк WEB приложений на Python, шаблонизация,ORM встроен
 
+## Сборщики
+- [**WebPack**](https://webpack.js.org) Сборка модулей JS
+- [**Vite**](https://vitejs.ru) Сборка и локальный сервер разработки приложений
+
 ## Базы данных
 - [**SQLite**](https://www.sqlite.org): Локальная, файловая SQL база данных
 - [**MongoDB**](https://www.mongodb.com): Документориентированная no-SQL база данных
