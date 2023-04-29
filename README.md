@@ -77,7 +77,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Nginx**](https://nginx.org) HTTP сервер, очень быстрый и легкий
 - [**HAProxy**](https://www.haproxy.org) Программная балансировщика нагрузки TCP/HTTP. Организация высогонагруженных серверов
 
-## Контеqнеризация и виртуализация на рабочем ПК
+## Контейеризация и виртуализация на рабочем ПК
 - [**Docker**](https://www.docker.com) Распределение ресурсов системы через контенеризацию. Создание контенеризированных приложений.
 - [**WSL**](https://learn.microsoft.com/ru-ru/windows/wsl/install) Запуск Linux и приложений на WIndows  10/11
 - [**k8s**](https://kubernetes.io) Инфраструктура для масштабирования, публикаций, управления контейнеризированных приложений [minikube](https://kubernetes.io/ru/docs/setup/learning-environment/minikube)
