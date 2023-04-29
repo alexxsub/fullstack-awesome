@@ -21,6 +21,7 @@ Coder->Programmer->Developer->DevOps->SRE
 ## Платформа
 - [**NodeJS**](https://nodejs.org): Платформа для всего. Разработка, управление приложениями, [ещё](https://nodejs.dev)
 - [**Nodemon**](https://nodemon.io): Автоматическое отслеживание изменений и релоад приложения
+- [**PM2**](https://pm2.io): Процесс менеджер
 
 ## Дизайн
  - [**Material design**](https://material.io): Концепция дизайна риложений от Google
