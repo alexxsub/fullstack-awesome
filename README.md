@@ -25,7 +25,13 @@ Coder->Programmer->Developer->DevOps->SRE
 
 ## Дизайн
  - [**Material design**](https://material.io): Концепция дизайна риложений от Google
+ - [**Material design иконки**](https://fonts.google.com/icons): Библиотека иконок от Google
  - [**Материал иконки**](https://pictogrammers.com/library/mdi): Библиотека иконок material design
+ - [**Fontawesome иконки**](https://fontawesome.ru/all-icons): Библиотека иконок fontawesom
+ - [**ionicons иконки**](https://ionic.io/ionicons): Библиотека иконок ionicons
+ - [**Bootstrap**](https://getbootstrap.com): Библиотека bootstrap
+ - [**Bootstrap иконки**](https://icons.bootstrap-5.ru): Библиотека иконок bootstrap
+ 
   
 ## Фронтенд
 - [**Vue**](https://vuejs.org): Прогрессивный JavaScript фреймворк для создания динамических интерфейсов
