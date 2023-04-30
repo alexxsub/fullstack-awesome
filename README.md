@@ -99,3 +99,11 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**WSL**](https://learn.microsoft.com/ru-ru/windows/wsl/install) Запуск Linux и приложений на WIndows  10/11
 - [**k8s**](https://kubernetes.io) Инфраструктура для масштабирования, публикаций, управления контейнеризированных приложений [minikube](https://kubernetes.io/ru/docs/setup/learning-environment/minikube)
 - [**VirtualBox**](https://www.virtualbox.org) Организация виртуализации на платформе x86. Не рассматриваем профессионалиные ситемы Hyper-V,RHV,VMware и т.п.
+
+## Ресурсы
+- [**NPM**](https://www.npmjs.com) Реестр NPM пакетов
+- [**Docker HUB**](https://hub.docker.com) Docker репозиторий images
+- [**Git HUB**](https://github.com) Хаб с множеством репозиториев git
+- [**stackoverflow**](https://stackoverflow.com) Ответы на все вопросы, если "стек переполнен"
+
+
