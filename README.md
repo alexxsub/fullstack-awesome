@@ -47,6 +47,8 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Angular**](https://angular.io): WEB фреймворк для SPA приложений от команды Google
 - [**Material Angular**](https://material.angularjs.org): Material UI для Angular
 
+Сравнение ReactJS vs Vue [**VueToDo**](https://github.com/sunil-sandhu/vue-todo)  [**ReactToDo**](https://github.com/sunil-sandhu/react-todo) 
+
 ## Бэкенд
 - [**Express**](https://expressjs.com): Фреймворк на платформе NodeJS для реализации backend
 - [**GraphQL**](https://graphql.org): Язык для реализации API
