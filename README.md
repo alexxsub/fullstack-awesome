@@ -101,7 +101,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**VirtualBox**](https://www.virtualbox.org) Организация виртуализации на платформе x86. Не рассматриваем профессионалиные ситемы Hyper-V,RHV,VMware и т.п.
 
 ## Ресурсы
-- [**NPM**](https://www.npmjs.com) Реестр NPM пакетов
+- [**NPM**](https://www.npmjs.com) Реестр NPM пакетов для платформы nodejs
 - [**Docker HUB**](https://hub.docker.com) Docker репозиторий images
 - [**Git HUB**](https://github.com) Хаб с множеством репозиториев git
 - [**stackoverflow**](https://stackoverflow.com) Ответы на все вопросы, если "стек переполнен"
