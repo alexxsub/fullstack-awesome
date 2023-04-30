@@ -34,9 +34,12 @@ Coder->Programmer->Developer->DevOps->SRE
  
   
 ## Фронтенд
+- [**HTML**](https://developer.mozilla.org/ru/docs/Web/HTML): HTML для разметки WEB интерфейса
+- [**CSS**](https://developer.mozilla.org/ru/docs/Web/CSS): CSS, стилизация
 - [**Vue**](https://vuejs.org): Прогрессивный JavaScript фреймворк для создания динамических интерфейсов
 - [**Quasar**](https://quasar.dev): Кросплатформенный фреймворк Vue для создания приложений в дизайне material-design 
 - [**Vuetify**](https://vuetifyjs.com): Компеонентный фреймворк Vue для создания WEB интерфейсов material-design
+
 
 ### Альтернативы
 - [**ReactJS**](https://react.dev): Прогрессивный JS фреймворк от команды facebook
