@@ -106,4 +106,12 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Git HUB**](https://github.com) Хаб с множеством репозиториев git
 - [**stackoverflow**](https://stackoverflow.com) Ответы на все вопросы, если "стек переполнен"
 
+## Минимальный набор, чтобы разрабатывать fullstak приложения
+- Visual Studio Code
+- HTML
+- JavaScript
+- NodeJS
+- Vue
+- Express
+
 
