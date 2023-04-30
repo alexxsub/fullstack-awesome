@@ -105,6 +105,8 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Docker HUB**](https://hub.docker.com) Docker репозиторий images
 - [**Git HUB**](https://github.com) Хаб с множеством репозиториев git
 - [**stackoverflow**](https://stackoverflow.com) Ответы на все вопросы, если "стек переполнен"
+- [**MDN**](https://developer.mozilla.org) Mozilla Developer Network
+- [**Microsoft Lean**](https://learn.microsoft.com) Обучающий портал от Microsoft
 
 ## Минимальный набор, чтобы разрабатывать fullstak приложения
 - Visual Studio Code
