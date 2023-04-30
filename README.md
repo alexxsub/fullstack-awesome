@@ -108,7 +108,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**MDN**](https://developer.mozilla.org) Mozilla Developer Network
 - [**Microsoft Lean**](https://learn.microsoft.com) Обучающий портал от Microsoft
 
-## Минимальный набор, чтобы разрабатывать fullstak приложения
+## Минимальный набор, чтобы разрабатывать fullstack приложения
 - Visual Studio Code
 - HTML
 - JavaScript
