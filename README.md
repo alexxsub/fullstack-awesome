@@ -130,5 +130,6 @@ Coder->Programmer->Developer->DevOps->SRE
 - Redis
 - Nginx
 - k8s
+- HAProxy
 
 
