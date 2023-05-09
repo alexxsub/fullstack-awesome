@@ -134,4 +134,4 @@ Coder->Programmer->Developer->DevOps->SRE
 
 # Видеоуроки по разработке fullstack
 
-[![Watch the video](https://img.youtube.com/vi/v=o-X0en8cjx4/maxresdefault.jpg)](https://youtu.be/v=o-X0en8cjx4)
+[![Watch the video](https://img.youtube.com/vi/o-X0en8cjx4/maxresdefault.jpg)](https://youtu.be/o-X0en8cjx4)
