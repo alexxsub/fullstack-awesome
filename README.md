@@ -1,7 +1,7 @@
 # Fullstack awesome
 Список инструментов для fullstack разработки для Developer,DevOps,SRE
 ```bash
-SysAdmin->DevOps
+SysAdmin->DevOps->Developer->SRE
 Coder->Programmer->Developer->DevOps->SRE
 ```
 ## Инструменты разработки
