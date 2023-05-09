@@ -115,5 +115,17 @@ Coder->Programmer->Developer->DevOps->SRE
 - NodeJS
 - Vue
 - Express
+## Расширенный дополнительный набор, чтобы разрабатывать fullstack приложения
+- ORM
+- GraphQL
+- Quasar
+- TypeScript
+- Docker
+## Продвинутый набор, чтобы разрабатывать fullstack приложения
+- subscription Apollo
+- RabbitMQ
+- Redis
+- Nginx
+- k8s
 
 
