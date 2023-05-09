@@ -117,7 +117,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - Express
 - WebPack или Vite
 ## Расширенный дополнительный набор, чтобы разрабатывать fullstack приложения
-- мгу 3 composible
+- мгу 3 composable
 - ORM (Prisma)
 - GraphQL
 - Quasar
