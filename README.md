@@ -119,7 +119,7 @@ Coder->Programmer->Developer->DevOps->SRE
 ## Расширенный дополнительный набор, чтобы разрабатывать fullstack приложения
 - Vue 3 (composable API)
 - ORM (Prisma)
-- GraphQL
+- GraphQL(Apollo)
 - Quasar
 - TypeScript (Nest)
 - Docker
