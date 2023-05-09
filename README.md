@@ -73,7 +73,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**MongoDB**](https://www.mongodb.com): Документориентированная no-SQL база данных
 - [**PostgreSQL**](https://www.postgresql.org): Самая мощная open source SQL СУБД
 - [**MySQL**](https://www.mysql.com/): Самая распространенная SQL СУБД
-- [**Redis**](https://redis.io) im-memory база данных
+- [**Redis**](https://redis.io) in-memory база данных
 
 ## Инструменты СУБД
 - [**DBeaver**](https://dbeaver.io): Универсальный GUI для СУБД
