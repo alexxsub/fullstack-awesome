@@ -113,14 +113,17 @@ Coder->Programmer->Developer->DevOps->SRE
 - HTML
 - JavaScript
 - NodeJS
-- Vue
+- Vue 2 или 3
 - Express
+- WebPack или Vite
 ## Расширенный дополнительный набор, чтобы разрабатывать fullstack приложения
-- ORM
+- мгу 3 composible
+- ORM (Prisma)
 - GraphQL
 - Quasar
-- TypeScript
+- TypeScript (Nest)
 - Docker
+- vite
 ## Продвинутый набор, чтобы разрабатывать fullstack приложения
 - subscription Apollo
 - RabbitMQ
