@@ -136,7 +136,7 @@ Coder->Programmer->Developer->DevOps->SRE
 
 - [#0 Анонс](https://youtu.be/o-X0en8cjx4)
 - [#1 Обоснование инструментов](https://youtu.be/c7IZshESnjk)
-- [#2 Разработка backend. Часть 1](https://youtu.be/33ssNWZIELI)[Разработка backend. Часть 2](https://youtu.be/_lgDH0G-E_4)
+- [#2 Разработка backend. Часть 1](https://youtu.be/33ssNWZIELI)[Часть 2](https://youtu.be/_lgDH0G-E_4)
 - [#3 Разработка frontend](https://youtu.be/ccQhcsXpCtY)
 - [#4 Связываем frontend и backend](https://youtu.be/RgSXM3uaO0M)
 - [#5 Привязываем приложение к MongoDB](https://youtu.be/kHkc3aHLzDU)
