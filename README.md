@@ -140,7 +140,4 @@ Coder->Programmer->Developer->DevOps->SRE
 - [#3 Разработка frontend](https://youtu.be/ccQhcsXpCtY)
 - [#4 Связываем frontend и backend](https://youtu.be/RgSXM3uaO0M)
 - [#5 Привязываем приложение к MongoDB](https://youtu.be/kHkc3aHLzDU)
-
-
-
-
+- [#6 Пишем фронтенд в стиле material Часть 1](https://youtu.be/-01NZfje7uM) [Часть 2](https://youtu.be/AooBgus4a7Y)
