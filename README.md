@@ -133,7 +133,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - HAProxy
 ## Видео по инструментам
 - [Плейлист видео по инструментам](https://www.youtube.com/playlist?list=PLBA2E_jkENLMD8r-m0ISzuNRAyTA5cIEG)
-- 
+
 ## Видеоуроки по разработке fullstack
 Разработка CRUD fullstack приложения Телефонный справочник
 - [#0 Анонс](https://youtu.be/o-X0en8cjx4)
