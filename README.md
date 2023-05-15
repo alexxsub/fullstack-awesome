@@ -131,9 +131,11 @@ Coder->Programmer->Developer->DevOps->SRE
 - Nginx
 - k8s
 - HAProxy
-
-# Видеоуроки по разработке fullstack
-
+## Видео по инструментам
+- [Плейлист видео по инструментам](https://www.youtube.com/playlist?list=PLBA2E_jkENLMD8r-m0ISzuNRAyTA5cIEG)
+- 
+## Видеоуроки по разработке fullstack
+Разработка CRUD fullstack приложения Телефонный справочник
 - [#0 Анонс](https://youtu.be/o-X0en8cjx4)
 - [#1 Обоснование инструментов](https://youtu.be/c7IZshESnjk)
 - [#2 Разработка backend. Часть 1](https://youtu.be/33ssNWZIELI)[Часть 2](https://youtu.be/_lgDH0G-E_4)
