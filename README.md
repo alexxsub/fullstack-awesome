@@ -108,6 +108,20 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**MDN**](https://developer.mozilla.org) Mozilla Developer Network
 - [**Microsoft Lean**](https://learn.microsoft.com) Обучающий портал от Microsoft
 
+## Расширения для браузера
+### Chrome
+- [Apollo client] (https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
+- [GraphQL Network] (https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln)
+- [Vue devtools] (https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
+### Firefox
+- [Apollo client] (https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/)
+- [GraphQL Network] (https://addons.mozilla.org/ru/firefox/addon/graphql-network-inspector/)
+- [Vue devtools] (https://addons.mozilla.org/ru/firefox/addon/vue-js-devtools/)
+
+
+
+
 ## Минимальный набор, чтобы разрабатывать fullstack приложения
 - Visual Studio Code
 - HTML
