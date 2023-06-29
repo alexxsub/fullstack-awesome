@@ -65,6 +65,10 @@ Coder->Programmer->Developer->DevOps->SRE
 ## Полезные пакеты
 - [***Cookie-parser***](https://www.npmjs.com/package/cookie-parser) сервис разбора куков в клиентских запросах для Express
 - [***dotenv***](https://www.npmjs.com/package/dotenv) Загрузка переменных окружения из .env
+- Jsonwebtoken
+- Cors
+- Validator
+- bcrypt
 
 ## Сборщики
 - [**WebPack**](https://webpack.js.org) Сборка модулей JS
@@ -162,3 +166,6 @@ Coder->Programmer->Developer->DevOps->SRE
 - [#7 Настройка рабочего места за 20 минут](https://youtu.be/nlEmIwC7ZFI)
 - [#8 Рефакторинг кода](https://youtu.be/a0UD90F_0ak)
 - [#9 TypeScript,Prisma,Nexus](https://youtu.be/esOiHMz9cW0)
+
+## Полезное чтиво
+-[***Learn Fullstack Web Development with React and GraphQL***](https://dev.to/kingdavid/learn-fullstack-web-development-with-react-and-graphql-by-building-a-sticky-note-app-part-two-3j8o)
