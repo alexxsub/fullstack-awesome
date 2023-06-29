@@ -155,6 +155,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [Плейлист видео по инструментам](https://www.youtube.com/playlist?list=PLBA2E_jkENLMD8r-m0ISzuNRAyTA5cIEG)
 
 ## Видеоуроки по разработке fullstack
+- [Плейлист видео по разработке](https://studio.youtube.com/playlist/PLBA2E_jkENLN8rf6uBdtix8Fov1yqpYkA/edit)
 Разработка CRUD fullstack приложения Телефонный справочник
 - [#0 Анонс](https://youtu.be/o-X0en8cjx4)
 - [#1 Обоснование инструментов](https://youtu.be/c7IZshESnjk)
