@@ -166,6 +166,13 @@ Coder->Programmer->Developer->DevOps->SRE
 - [#7 Настройка рабочего места за 20 минут](https://youtu.be/nlEmIwC7ZFI)
 - [#8 Рефакторинг кода](https://youtu.be/a0UD90F_0ak)
 - [#9 TypeScript,Prisma,Nexus](https://youtu.be/esOiHMz9cW0)
+- #10 Subscriptions [Анонс](https://youtu.be/dkI9WbYbAV8) [бэкентд](https://youtu.be/tYDgAPxM-tg) [фронтенд](https://youtu.be/5NuUpqqVWA8)
+- [#11 Добавление нового поля](https://youtu.be/QT7Dg8DmjJE)
 
 ## Полезное чтиво
 -[***Learn Fullstack Web Development with React and GraphQL***](https://dev.to/kingdavid/learn-fullstack-web-development-with-react-and-graphql-by-building-a-sticky-note-app-part-two-3j8o)
+-[***Алгоритмы и структуры данных на JS***](https://my-js.org/docs/other/js-algorithms/)
+-[***Алгоритмы с примерами JS***](https://kvando.tech/ru/algoritmy-na-javascript-s-naglyadnymi-primerami/)
+-[***Параллельная модель и цикл событий***](https://developer.mozilla.org/ru/docs/Web/JavaScript/Event_loop)
+-[***NestJS+Prisma***](https://dev.to/aryanjnyc/use-prisma-with-a-nestjs-graphql-server-4n8d)
+-[***Capacitor android app***](https://ionic.io/blog/building-and-releasing-your-capacitor-android-app)
