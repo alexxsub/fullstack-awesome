@@ -166,7 +166,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [#7 Настройка рабочего места за 20 минут](https://youtu.be/nlEmIwC7ZFI)
 - [#8 Рефакторинг кода](https://youtu.be/a0UD90F_0ak)
 - [#9 TypeScript,Prisma,Nexus](https://youtu.be/esOiHMz9cW0)
-- #10 Subscriptions [Анонс](https://youtu.be/dkI9WbYbAV8) [бэкентд](https://youtu.be/tYDgAPxM-tg) [фронтенд](https://youtu.be/5NuUpqqVWA8)
+- [#10 Subscriptions.Анонс](https://youtu.be/dkI9WbYbAV8), [бэкенд](https://youtu.be/tYDgAPxM-tg), [фронтенд](https://youtu.be/5NuUpqqVWA8)
 - [#11 Добавление нового поля](https://youtu.be/QT7Dg8DmjJE)
 
 ## Полезное чтиво
