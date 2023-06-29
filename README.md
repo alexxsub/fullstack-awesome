@@ -62,7 +62,9 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**REST**](https://ru.wikipedia.org/wiki/REST) что такое REST?
 - [**RPC**](https://ru.wikipedia.org/wiki/Удалённый_вызов_процедур) что такое RPC?
 
-
+## Полезные пакеты
+- [***Cookie-parser***](https://www.npmjs.com/package/cookie-parser) сервис разбора куков в клиентских запросах для Express
+- [***dotenv***](https://www.npmjs.com/package/dotenv) Загрузка переменных окружения из .env
 
 ## Сборщики
 - [**WebPack**](https://webpack.js.org) Сборка модулей JS
