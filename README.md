@@ -177,3 +177,4 @@ Coder->Programmer->Developer->DevOps->SRE
 - [***Параллельная модель и цикл событий***](https://developer.mozilla.org/ru/docs/Web/JavaScript/Event_loop)
 - [***NestJS+Prisma***](https://dev.to/aryanjnyc/use-prisma-with-a-nestjs-graphql-server-4n8d)
 - [***Capacitor android app***](https://ionic.io/blog/building-and-releasing-your-capacitor-android-app)
+- [***Д. Флэнаган - JavaScript. Полное руководство. 7-е издание. (2021)***](https://studylib.net/doc/25688524/d.-fle-nagan---javascript.-polnoe-rukovodstvo.-7-e-izdanie...)
