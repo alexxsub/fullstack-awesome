@@ -123,9 +123,9 @@ Coder->Programmer->Developer->DevOps->SRE
 - [Vue devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 
 ### Firefox
-- [Apollo client] (https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/)
-- [GraphQL Network] (https://addons.mozilla.org/ru/firefox/addon/graphql-network-inspector/)
-- [Vue devtools] (https://addons.mozilla.org/ru/firefox/addon/vue-js-devtools/)
+- [Apollo client](https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/)
+- [GraphQL Network](https://addons.mozilla.org/ru/firefox/addon/graphql-network-inspector/)
+- [Vue devtools](https://addons.mozilla.org/ru/firefox/addon/vue-js-devtools/)
 
 
 
