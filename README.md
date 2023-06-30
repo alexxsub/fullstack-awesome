@@ -65,10 +65,10 @@ Coder->Programmer->Developer->DevOps->SRE
 ## Полезные пакеты
 - [***Cookie-parser***](https://www.npmjs.com/package/cookie-parser) сервис разбора куков в клиентских запросах для Express
 - [***dotenv***](https://www.npmjs.com/package/dotenv) Загрузка переменных окружения из .env
-- Jsonwebtoken
-- Cors
-- Validator
-- bcrypt
+- [***Jsonwebtoken***](https://www.npmjs.com/package/jsonwebtoken) Генераци JSON Webтокенов, например, для авторизации
+- [***Cors***] (https://www.npmjs.com/package/cors) Междоменное взаимодействие
+- [***Validator***] (https://www.npmjs.com/package/validator) Проверка данных ввода
+- [***bcrypt***](https://www.npmjs.com/package/bcrypt) Шифрование паролей
 
 ## Сборщики
 - [**WebPack**](https://webpack.js.org) Сборка модулей JS
@@ -102,7 +102,9 @@ Coder->Programmer->Developer->DevOps->SRE
 
 ## Контейеризация и виртуализация на рабочем ПК
 - [**Docker**](https://www.docker.com) Распределение ресурсов системы через контенеризацию. Создание контенеризированных приложений.
-- [**WSL**](https://learn.microsoft.com/ru-ru/windows/wsl/install) Запуск Linux и приложений на WIndows  10/11
+- [**WSL**](https://learn.microsoft.com/ru-ru/windows/wsl/install) Запуск Linux и приложений на Windows  10/11
+- [**Все про WSL***](https://learn.microsoft.com/ru-ru/windows/wsl/)
+- [***Основные команды WSL***] (https://learn.microsoft.com/ru-ru/windows/wsl/basic-commands)
 - [**k8s**](https://kubernetes.io) Инфраструктура для масштабирования, публикаций, управления контейнеризированных приложений [minikube](https://kubernetes.io/ru/docs/setup/learning-environment/minikube)
 - [**VirtualBox**](https://www.virtualbox.org) Организация виртуализации на платформе x86. Не рассматриваем профессионалиные ситемы Hyper-V,RHV,VMware и т.п.
 
