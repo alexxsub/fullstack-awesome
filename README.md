@@ -118,9 +118,9 @@ Coder->Programmer->Developer->DevOps->SRE
 
 ## Расширения для браузера
 ### Chrome
-- [Apollo client] (https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
-- [GraphQL Network] (https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln)
-- [Vue devtools] (https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+- [Apollo client](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm)
+- [GraphQL Network](https://chrome.google.com/webstore/detail/graphql-network-inspector/ndlbedplllcgconngcnfmkadhokfaaln)
+- [Vue devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 
 ### Firefox
 - [Apollo client] (https://addons.mozilla.org/en-US/firefox/addon/apollo-developer-tools/)
