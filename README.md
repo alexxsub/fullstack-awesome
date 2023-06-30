@@ -66,8 +66,8 @@ Coder->Programmer->Developer->DevOps->SRE
 - [***Cookie-parser***](https://www.npmjs.com/package/cookie-parser) сервис разбора куков в клиентских запросах для Express
 - [***dotenv***](https://www.npmjs.com/package/dotenv) Загрузка переменных окружения из .env
 - [***Jsonwebtoken***](https://www.npmjs.com/package/jsonwebtoken) Генераци JSON Webтокенов, например, для авторизации
-- [***Cors***] (https://www.npmjs.com/package/cors) Междоменное взаимодействие
-- [***Validator***] (https://www.npmjs.com/package/validator) Проверка данных ввода
+- [***Cors***](https://www.npmjs.com/package/cors) Междоменное взаимодействие, мидл сервис для Express
+- [***Validator***](https://www.npmjs.com/package/validator) Проверка данных ввода
 - [***bcrypt***](https://www.npmjs.com/package/bcrypt) Шифрование паролей
 
 ## Сборщики
