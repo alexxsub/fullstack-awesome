@@ -180,3 +180,4 @@ Coder->Programmer->Developer->DevOps->SRE
 - [***NestJS+Prisma***](https://dev.to/aryanjnyc/use-prisma-with-a-nestjs-graphql-server-4n8d)
 - [***Capacitor android app***](https://ionic.io/blog/building-and-releasing-your-capacitor-android-app)
 - [***Д. Флэнаган - JavaScript. Полное руководство. 7-е издание. (2021)***](https://studylib.net/doc/25688524/d.-fle-nagan---javascript.-polnoe-rukovodstvo.-7-e-izdanie...)
+- [WSL и андроид](https://gist.github.com/jramiresbrito/846b9bebc560668eb2e7a97fb1cfc1ef)
