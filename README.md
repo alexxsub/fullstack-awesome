@@ -14,9 +14,9 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**JetBarains**](https://www.jetbrains.com) Платные инструменты разработки
 
 ## Язык
-- [**JavaScript**](https://developer.mozilla.org/ru/docs/Web/JavaScript): Универсальный язык JavaScript для выполнения в браузере и на сервере
-- [**TypeScript**](https://www.typescriptlang.org): Язык разработки приложений
-- [**Python**](https://www.python.org): Язык разработки приложений
+- [**JavaScript**](https://developer.mozilla.org/ru/docs/Web/JavaScript): Универсальный язык JavaScript для выполнения в браузере(фронтенд) и на сервере(бэкенд)
+- [**TypeScript**](https://www.typescriptlang.org): Язык разработки приложений. Типизироанный JavaScript
+- [**Python**](https://www.python.org): Язык разработки приложений.Язык для бэкенда и разработки десктоп приложений
 
 ## Платформа
 - [**NodeJS**](https://nodejs.org): Платформа для всего. Разработка, управление приложениями, [ещё](https://nodejs.dev)
