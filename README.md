@@ -128,7 +128,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [Vue devtools](https://addons.mozilla.org/ru/firefox/addon/vue-js-devtools/)
 
 ## Полезные утилиты
--[VPN Hosts](https://github.com/x-falcon/Virtual-Hosts/) Изменение hosts на Android без root
+- [VPN Hosts](https://github.com/x-falcon/Virtual-Hosts/) Изменение hosts на Android без root
 
 
 ## Минимальный набор, чтобы разрабатывать fullstack приложения
