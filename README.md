@@ -31,6 +31,7 @@ Coder->Programmer->Developer->DevOps->SRE
  - [**ionicons иконки**](https://ionic.io/ionicons): Библиотека иконок ionicons
  - [**Bootstrap**](https://getbootstrap.com): Библиотека bootstrap
  - [**Bootstrap иконки**](https://icons.bootstrap-5.ru): Библиотека иконок bootstrap
+ - [Спецсимволы](https://htmlweb.ru/html/symbols.php)
  
   
 ## Фронтенд
