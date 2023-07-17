@@ -175,6 +175,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [#11 Добавление нового поля](https://youtu.be/QT7Dg8DmjJE)
 
 ## Полезное чтиво
+- [Примеры оформления через CSS](https://csslayout.io/)
 - [***Learn Fullstack Web Development with React and GraphQL***](https://dev.to/kingdavid/learn-fullstack-web-development-with-react-and-graphql-by-building-a-sticky-note-app-part-two-3j8o)
 - [***Алгоритмы и структуры данных на JS***](https://my-js.org/docs/other/js-algorithms/)
 - [***Алгоритмы с примерами JS***](https://kvando.tech/ru/algoritmy-na-javascript-s-naglyadnymi-primerami/)
