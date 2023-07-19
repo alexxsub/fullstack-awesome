@@ -185,4 +185,5 @@ Coder->Programmer->Developer->DevOps->SRE
 - [***Д. Флэнаган - JavaScript. Полное руководство. 7-е издание. (2021)***](https://studylib.net/doc/25688524/d.-fle-nagan---javascript.-polnoe-rukovodstvo.-7-e-izdanie...)
 - [WSL2 и андроид](https://gist.github.com/jramiresbrito/846b9bebc560668eb2e7a97fb1cfc1ef)
 - [WSL2 и андроид](https://stacktuts.com/how-to-connect-android-studio-running-inside-wsl2-with-connected-devices-or-android-emulator-running-on-host)
+- [Доступ к сети WSL](https://stackoverflow.com/questions/65327238/cant-connect-to-wsl2-localhost-server-from-wsl2-docker-container)
 - [adb комнады](https://adbshell.com/commands/adb-shell-ip)
