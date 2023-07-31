@@ -54,11 +54,13 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Express**](https://expressjs.com): Фреймворк на платформе NodeJS для реализации backend
 - [**GraphQL**](https://graphql.org): Язык для реализации API
 - [**Apollo**](https://www.apollographql.com): Сервер и клиент GraphQL
-- [**Nexus**](https://nexusjs.org): Объектное описание GraphQL схем и методов  
+- [**Nexus**](https://nexusjs.org): Объектное описание GraphQL схем и методов
+- [**TypeGraphQL**](https://typegraphql.com) Объектное описание GraphQL
 - [**Prisma**](https://www.prisma.io): Программный доступ к базе данных любых (ORM)
 - [**Mongoose**](https://mongoosejs.com/): Программный доступ к MongoDB (ODM)
 - [**Nest**](https://nestjs.com/): TypeScript nodejs фреймворк для server-side масштабируемых приложений
 - [**Django**](https://www.djangoproject.com/) фреймворк WEB приложений на Python, шаблонизация,ORM встроен
+
 
 - [**REST**](https://ru.wikipedia.org/wiki/REST) что такое REST?
 - [**RPC**](https://ru.wikipedia.org/wiki/Удалённый_вызов_процедур) что такое RPC?
