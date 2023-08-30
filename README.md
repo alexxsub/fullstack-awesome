@@ -94,7 +94,7 @@ Coder->Programmer->Developer->DevOps->SRE
 - [**Graphite**](https://graphiteapp.org) Система сбора, хранения и отображения метрик, хороший бэкенд
 - [**ClickHouse**](https://clickhouse.com) База данных, хорошо подходит для хранения метрик
 - [**Bosun**](https://bosun.org) Система алертинга
-- [**Promethius**](https://prometheus.io) Система мониторинга. Сбор, хранение, отображение метрик, алертинг
+- [**Prometheus**](https://prometheus.io) Система мониторинга. Сбор, хранение, отображение метрик, алертинг
 - [**InfluxDB**](https://www.influxdata.com) Система мониторинга. Сбор, хранение, отображение метрик, алертинг. Например, [telegraf](https://www.influxdata.com/time-series-platform/telegraf/) агент сбора метрик
 
 ## Универсальные инструменты
