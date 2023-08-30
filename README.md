@@ -175,7 +175,9 @@ Coder->Programmer->Developer->DevOps->SRE
 - [#9 TypeScript,Prisma,Nexus](https://youtu.be/esOiHMz9cW0)
 - [#10 Subscriptions.Анонс](https://youtu.be/dkI9WbYbAV8), [бэкенд](https://youtu.be/tYDgAPxM-tg), [фронтенд](https://youtu.be/5NuUpqqVWA8)
 - [#11 Добавление нового поля](https://youtu.be/QT7Dg8DmjJE)
-
+- [#12 Сборка frontend под Android](https://youtu.be/xEik_5wx4J4)
+- [#13 Backend на TypeScript, NEST](https://youtu.be/8uRGpHYQ-DQ)
+- [#14 Server side pagination](https://youtu.be/8cCeNdiCpNM)
 ## Полезное чтиво
 - [Примеры оформления через CSS](https://csslayout.io/)
 - [***Learn Fullstack Web Development with React and GraphQL***](https://dev.to/kingdavid/learn-fullstack-web-development-with-react-and-graphql-by-building-a-sticky-note-app-part-two-3j8o)
