@@ -191,3 +191,4 @@ Coder->Programmer->Developer->DevOps->SRE
 - [WSL2 и андроид](https://stacktuts.com/how-to-connect-android-studio-running-inside-wsl2-with-connected-devices-or-android-emulator-running-on-host)
 - [Доступ к сети WSL](https://stackoverflow.com/questions/65327238/cant-connect-to-wsl2-localhost-server-from-wsl2-docker-container)
 - [adb комнады](https://adbshell.com/commands/adb-shell-ip)
+- [react dev](https://reactdev.ru)
