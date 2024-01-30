@@ -132,7 +132,15 @@ Coder->Programmer->Developer->DevOps->SRE
 
 ## Полезные утилиты
 - [VPN Hosts](https://github.com/x-falcon/Virtual-Hosts/) Изменение hosts на Android без root
-
+- 
+## Мой, рекомендуемый стек
+- Visual Studio Code
+- NodeJS/TypeScript
+- Vue3/Quasar
+- Apollo/GraphQL
+- Nest
+- Prisma
+- MongoDB
 
 ## Минимальный набор, чтобы разрабатывать fullstack приложения
 - Visual Studio Code
